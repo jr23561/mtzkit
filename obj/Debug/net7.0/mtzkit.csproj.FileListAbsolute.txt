@@ -1,0 +1,14 @@
+/Users/artemharcenko/projects/mtzkit/mtzkit/bin/Debug/net7.0/mtzkit
+/Users/artemharcenko/projects/mtzkit/mtzkit/bin/Debug/net7.0/mtzkit.deps.json
+/Users/artemharcenko/projects/mtzkit/mtzkit/bin/Debug/net7.0/mtzkit.runtimeconfig.json
+/Users/artemharcenko/projects/mtzkit/mtzkit/bin/Debug/net7.0/mtzkit.dll
+/Users/artemharcenko/projects/mtzkit/mtzkit/bin/Debug/net7.0/mtzkit.pdb
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.AssemblyInfoInputs.cache
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.AssemblyInfo.cs
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.csproj.CoreCompileInputs.cache
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.dll
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/refint/mtzkit.dll
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.pdb
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/mtzkit.genruntimeconfig.cache
+/Users/artemharcenko/projects/mtzkit/mtzkit/obj/Debug/net7.0/ref/mtzkit.dll
